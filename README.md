@@ -9,4 +9,4 @@ The purpose of this model is to categorise the countries using some socio-econom
 
 ### Clustering Methods :
 - K-Means
-- Hierarichal
+- Hierarchical
